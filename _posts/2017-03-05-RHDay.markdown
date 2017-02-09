@@ -1,0 +1,9 @@
+---
+title: Rust Hack Day
+text: Hands-on-session on Rust with several themes of development
+location: HBTU, Kanpur
+link: https://github.com/yourUserName/studyGroup/issues/1234
+date: 2017-03-05
+startTime: '12:00'
+endTime: '17:00'
+---
