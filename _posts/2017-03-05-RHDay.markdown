@@ -2,7 +2,7 @@
 title: Rust Hack Day
 text: Hands-on-session on Rust with several themes of development
 location: HBTU, Kanpur
-link: https://github.com/amitkumarj441/studyGroup/issues/4
+link: public.etherpad-mozilla.org/p/remo-rust-hack-day
 date: 2017-03-05
 startTime: '12:00'
 endTime: '17:00'
